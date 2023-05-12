@@ -16,6 +16,10 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 3. [Contributing](#contributing)
 4. [License](#license)
 
+## Projets done with ChatGPT
+
+1. [My personal website on github, 100% ChatGPT](https://lkorczowski.github.io/)
+
 ## Tools and Plugins
 
 * [Tool 1](https://example.com) - A brief description of Tool 1 and what it does.
