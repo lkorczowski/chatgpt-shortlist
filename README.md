@@ -2,6 +2,10 @@
 
 This repository is a curated list of interesting tools, plugins, and resources for working with OpenAI's ChatGPT. It also contains small tutorials to help you learn various aspects of using ChatGPT effectively.
 
+## The story behind this repo
+After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks, I decided to start an experiment:
+**For 3 months, my boss will be ChatGPT.** In all the aspects of my life, ChatGPT will guide me to be a better parent, be better organize, eat better and even build a 10,000€/month business. I'll update this repo to share my learnings about this interesting experiment. Hopefully you can reproduice it yourself.
+
 ## Table of Contents
 
 1. [Tools and Plugins](#tools-and-plugins)
