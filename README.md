@@ -34,6 +34,11 @@ _Add more tools, plugins, and resources as you discover them._
 
 * [HuggingChat](https://huggingface.co/chat/) - the opensource alternative to ChatGPT by HuggingFace
 * [PromptPerfect](https://promptperfect.jina.ai/) - automatically optimizes your prompts for ChatGPT, MidJourney, StableDiffusion, Claude and many others.
+* [Manychat](manychat.com) - answer automatically to your clients
+* [copy.ai](copy.ai) - the copy of your website in one click
+* [Unbounce](unbounce.com) - generate landingpage using AI
+* [Tailorbrands](tailorbrands.com) - generate your graphical chart using AI
+* [adext.ai](adext.ai) - optimize your ads copy using AI for Google and Facebook ads
 
 ## Tutorials
 
