@@ -41,6 +41,16 @@ _Add more tools, plugins, and resources as you discover them._
 
 ## Tutorials
 
+### PeTODI prompt Framework
+I developed my own prompt Framework that I use in most of the simple tasks. It has a very high degree of success (95%+) with ChatGPT4 and doesn't require any plugin or internet. It also drastically improves any prompt of ChatGPT3.5 which is dumb in comparison (success rate 75%+).
+
+1. Personality -> ask to load a personality for the agent.
+2. Task -> ask the general goal of the agent for this entire conversation.
+3. Output -> specify exactly what is the expected output (format, type, etc.)
+4. Details -> give the details, context and data. If it require several prompts to feed data, you can use “Don’t start anything yet, you can acknowledge and I will feed you with more data in the next prompt” at the end of your prompt.
+5. Iterate -> after the first output was given, you can iterate by giving feedback, pointing out errors and asking for feedback. When code is the output, you can copy/paste any error and ChatGPT will provide you with solutions.
+
+
 ### Loading Personalities
 
 A brief overview of how to load a personality into ChatGPT. Include a link to the tutorial file (e.g., `loading_personalities.md`).
