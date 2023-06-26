@@ -24,9 +24,7 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 
 ### Curated
 
-* [Tool 1](https://example.com) - A brief description of Tool 1 and what it does.
-* [Plugin 1](https://example.com) - A brief description of Plugin 1 and what it does.
-* [Resource 1](https://example.com) - A brief description of Resource 1 and what it does.
+* [🤖 AnythingLLM: A full-stack personalized AI assistant]((https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
 
 _Add more tools, plugins, and resources as you discover them._
 
@@ -39,6 +37,7 @@ _Add more tools, plugins, and resources as you discover them._
 * [Unbounce](unbounce.com) - generate landingpage using AI
 * [Tailorbrands](tailorbrands.com) - generate your graphical chart using AI
 * [adext.ai](adext.ai) - optimize your ads copy using AI for Google and Facebook ads
+* [pinecone.io](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. 
 
 ## Tutorials
 
