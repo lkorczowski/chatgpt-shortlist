@@ -22,22 +22,25 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 
 ## Tools and Plugins
 
-### Curated
+### AI end-to-end solutions
 
-* [🤖 AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
-
-_Add more tools, plugins, and resources as you discover them._
-
-### To test
-
-* [HuggingChat](https://huggingface.co/chat/) - the opensource alternative to ChatGPT by HuggingFace
-* [PromptPerfect](https://promptperfect.jina.ai/) - automatically optimizes your prompts for ChatGPT, MidJourney, StableDiffusion, Claude and many others.
 * [Manychat](manychat.com) - answer automatically to your clients
-* [copy.ai](copy.ai) - the copy of your website in one click
 * [Unbounce](unbounce.com) - generate landingpage using AI
 * [Tailorbrands](tailorbrands.com) - generate your graphical chart using AI
+* [copy.ai](copy.ai) - the copy of your website in one click
 * [adext.ai](adext.ai) - optimize your ads copy using AI for Google and Facebook ads
-* [pinecone.io](https://www.pinecone.io/) - The Pinecone vector database makes it easy to build high-performance vector search applications. 
+* [HuggingChat](https://huggingface.co/chat/) - the opensource alternative to ChatGPT by HuggingFace
+
+### AI-models
+
+### AI Prompts
+* [PromptPerfect](https://promptperfect.jina.ai/) - automatically optimizes your prompts for ChatGPT, MidJourney, StableDiffusion, Claude and many others.
+
+### AI Deployments
+* [🤖 AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
+* [PrivateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) -  Inspired by PrivateGPT: Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+* [gpt4all](https://github.com/nomic-ai/gpt4all) - Open-source assistant-style large language models that run locally on your CPU
 
 ## Tutorials
 
