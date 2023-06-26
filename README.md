@@ -24,7 +24,7 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 
 ### Curated
 
-* [🤖 AnythingLLM: A full-stack personalized AI assistant]((https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
+* [🤖 AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
 
 _Add more tools, plugins, and resources as you discover them._
 
