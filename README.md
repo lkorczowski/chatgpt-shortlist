@@ -42,6 +42,12 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 * [LocalGPT](https://github.com/PromtEngineer/localGPT) -  Inspired by PrivateGPT: Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
 * [gpt4all](https://github.com/nomic-ai/gpt4all) - Open-source assistant-style large language models that run locally on your CPU
 
+### Software
+* [Mojo programming language](https://www.modular.com/) - Programming language for AI based on python. "The fastest unified AI inference engine in the world."
+* [TensorFlow](https://www.tensorflow.org/) - end-to-end Python ML librairy and framework for training, testing and deploying AI models. Made in Google.
+* [PyTorch](https://pytorch.org/) - Python ML librairy and framework for training, testing. Much easier to grasp than TensorFlow if you know python.
+* [scikit-learn](https://scikit-learn.org/) - the easiest way to start building models and using ML for data science. 
+
 ## Tutorials
 
 ### PeTODI prompt Framework
