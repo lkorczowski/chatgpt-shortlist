@@ -13,10 +13,11 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
    - [Content Creation](#Content-Creation)
    - [AI Prompts Engineering](#AI-Prompts-Engineering)
    - [AI Deployment](#AI-Deployment)
-3. [Tutorials](#tutorials)
+2. [Tutorials](#tutorials)
    - [Loading Personalities](#loading-personalities)
    - [Creating Efficiency Prompts](#creating-efficiency-prompts)
    - [Using URLs and PDFs](#using-urls-and-pdfs)
+3. [Articles and External Tutorials](#articles-and-external-tutorials)
 4. [Contributing](#contributing)
 5. [License](#license)
 
@@ -80,6 +81,12 @@ A brief overview of how to create efficiency prompts for ChatGPT. Include a link
 ### Using URLs and PDFs
 
 A brief overview of how to use URLs and PDFs as input for ChatGPT. Include a link to the tutorial file (e.g., `using_urls_and_pdfs.md`).
+
+## Articles and External Tutorials
+
+- [The Generative AI Revolution: Exploring the Current Landscape (30 min read)](https://pub.towardsai.net/the-generative-ai-revolution-exploring-the-current-landscape-4b89998fcc5f)
+- [Deploy a Large Language Model (LLM) with HuggingFace](https://huggingface.co/blog/inference-endpoints-llm)
+
 
 ## Contributing
 
