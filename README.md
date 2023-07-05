@@ -31,6 +31,11 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 * [adext.ai](adext.ai) - optimize your ads copy using AI for Google and Facebook ads
 * [HuggingChat](https://huggingface.co/chat/) - the opensource alternative to ChatGPT by HuggingFace
 
+### Content Creation
+* [submagic](https://submagic.co/) -  AI-Powered Captions and Subtitles for short videos <90s (Tiktok, Reels, etc.)
+* [Midjourney](https://www.midjourney.com/) - Do I need to present them? text-to-image generator specialized on digital art
+* [D-ID](https://www.d-id.com/) - dubbing your video using immersive and human-like conversational AI
+
 ### AI-models
 
 ### AI Prompts
