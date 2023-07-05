@@ -10,9 +10,9 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 
 1. [Tools and Plugins](#tools-and-plugins)
    - [AI end-to-end solutions](#AI-end-to-end-solutions)
-   - [Content Creation](#Content Creation)
-   - [AI Prompts Engineering](#AI Prompts Engineering)
-   - [AI Deployment](#AI Deployment)
+   - [Content Creation](#Content-Creation)
+   - [AI Prompts Engineering](#AI-Prompts-Engineering)
+   - [AI Deployment](#AI-Deployment)
 3. [Tutorials](#tutorials)
    - [Loading Personalities](#loading-personalities)
    - [Creating Efficiency Prompts](#creating-efficiency-prompts)
