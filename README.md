@@ -1,6 +1,6 @@
-# ChatGPT Shortlist
+# AI & ChatGPT Shortlist
 
-This repository is a curated list of interesting tools, plugins, and resources for working with OpenAI's ChatGPT. It also contains small tutorials to help you learn various aspects of using ChatGPT effectively.
+This repository is a curated list of interesting tools, plugins, and resources for working with OpenAI's ChatGPT and other AI. It also contains small tutorials to help you learn various aspects of using ChatGPT effectively.
 
 ## The story behind this repo
 After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks, I decided to start an experiment:
@@ -9,12 +9,16 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 ## Table of Contents
 
 1. [Tools and Plugins](#tools-and-plugins)
-2. [Tutorials](#tutorials)
+   - [AI end-to-end solutions](#AI end-to-end solutions)
+   - [Content Creation](#Content Creation)
+   - [AI Prompts Engineering](#AI Prompts Engineering)
+   - [AI Deployment](#AI Deployment)
+3. [Tutorials](#tutorials)
    - [Loading Personalities](#loading-personalities)
    - [Creating Efficiency Prompts](#creating-efficiency-prompts)
    - [Using URLs and PDFs](#using-urls-and-pdfs)
-3. [Contributing](#contributing)
-4. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Projets done with ChatGPT
 
@@ -38,10 +42,10 @@ After using for several months ChatGPT 3.5 and ChatGPT 4 daily for various tasks
 
 ### AI-models
 
-### AI Prompts
+### AI Prompts Engineering
 * [PromptPerfect](https://promptperfect.jina.ai/) - automatically optimizes your prompts for ChatGPT, MidJourney, StableDiffusion, Claude and many others.
 
-### AI Deployments
+### AI Deployment
 * [🤖 AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application and tool suite that enables you to turn any document, resource, or piece of content into a piece of data that any LLM can use as reference during chatting.
 * [PrivateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
 * [LocalGPT](https://github.com/PromtEngineer/localGPT) -  Inspired by PrivateGPT: Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
